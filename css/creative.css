@@ -229,6 +229,7 @@ header .header-content .header-content-inner p {
         margin-right: auto;
         margin-left: auto;
         max-width: 1000px;
+        text-shadow: 0 0 5px #000;
     }
 
     header .header-content .header-content-inner p {
@@ -236,6 +237,8 @@ header .header-content .header-content-inner p {
         margin-left: auto;
         max-width: 80%;
         font-size: 18px;
+        text-shadow: 0 0 5px #000;
+        font-weight: bold;
     }
 }
 
